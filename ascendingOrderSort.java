@@ -1,5 +1,5 @@
 import java.util.*;
-public class assendingOrderSort {
+public class ascendingOrderSort {
     public static void main(String [] args){
         int [] arr= {5,2,9,1,7,3};
         {
